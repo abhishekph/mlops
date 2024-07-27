@@ -4,3 +4,6 @@ myenv/
 build
 
 dist
+
+.git
+
