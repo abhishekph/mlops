@@ -16,6 +16,7 @@ setup.py
 ./bikeshare_model/processing/features.py
 ./bikeshare_model/processing/validation.py
 ./bikeshare_model/trained_models/__init__.py
+./bikeshare_model/trained_models/bikeshare__model_output_v0.0.1.pkl
 ./requirements/requirements.txt
 ./requirements/test_requirements.txt
 bikeshare_model/VERSION
@@ -38,5 +39,6 @@ bikeshare_model/processing/data_manager.py
 bikeshare_model/processing/features.py
 bikeshare_model/processing/validation.py
 bikeshare_model/trained_models/__init__.py
+bikeshare_model/trained_models/bikeshare__model_output_v0.0.1.pkl
 tests/test_features.py
 tests/test_predictions.py
